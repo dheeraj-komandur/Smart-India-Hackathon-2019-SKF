@@ -1,6 +1,11 @@
 # Smart-India-Hackathon-2019
 ### Team Name : **Zero2one**
 ### Team Leader : **Dheeraj Komandur**
+Team Members - 
+[Shebin Silvister](https://github.com/silvistershebin)
+[Aditya Khochare](https://github.com/AdityaPune)
+[Uday More](https://github.com/udayvmore1)
+[Shubham Kokate](https://in.linkedin.com/shubham-kokate-614b15190)
 ### Problem Statement by - [SKF Pvt. Ltd.](https://www.skf.com/)
 ***
 
