@@ -25,6 +25,19 @@ Our Team chose the problem statement by SKF Pvt. Ltd, ([wiki](https://en.wikiped
 Problem Statment - **Real Time Supply Chain Management Systems** - Component suppliers plan raw material procurement and their internal manufacturing processes as per the 'forecast' from SKF. Any delay due to manufacturing / dispatch of raw material due to machine breakdown, workmen absenteeism, over booking by customers with respect to capacity 
 etc, can delay deliveries to customers in turn affecting final customers. A system to be developed to know real time status of all vital activities/ actions to customer & advance warning alarm should go off in case of any delays.
 
+### Our Solution
+
+![alt text](images-readme/architectureFlow.png "Architecture Diagram")
+
+
+Our Solution consists of a Web Application that provides the following:
+- Communication Channel b/w SKF and Supplier for functioning of Supply Chain. 
+- Creates, assigns and manages yearly targets and coordinates with supplier about production.
+- Alert System tackles delays in SCM with real time Status of components. 
+- Real-Time Warehouse Availability Check without any Supplier Communication.
+- QuickAssign feature to deal with any delays in the Supply Chain.
+- The Complete Supply Chain Management Software for SKF and similar companies
+
 
 ### Conclusion
 
@@ -34,19 +47,10 @@ Position - **1st**
 
 Prize Money - **₹ 75,000**
 
-[Insert Winning Image Photo]
+![alt text](images-readme/winngPic.jpeg "Architecture Diagram")
 
-### Our Solution
 
-[Insert Image of flow chart]
 
-Our Solution consists of a Web Application that provides the following:
-- Communication Channel b/w SKF and Supplier for functioning of Supply Chain. 
-- Creates, assigns and manages yearly targets and coordinates with supplier about production.
-- Alert System tackles delays in SCM with real time Status of components. 
-- Real-Time Warehouse Availability Check without any Supplier Communication.
-- QuickAssign feature to deal with any delays in the Supply Chain.
-- The Complete Supply Chain Management Software for SKF and similar companies
 
 
 
